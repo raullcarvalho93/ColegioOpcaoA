@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "SqlServerConnection": "",
+    "ColegioOpcaoADB": "server=localhost;uid=root;pwd=1234;database=ColegioOpcaoADB"
+  }
+}
+
